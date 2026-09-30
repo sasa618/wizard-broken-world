@@ -4,6 +4,7 @@
 CEREC GAME JAM 2026 で 4 人チーム・5 日間で制作しました。
 
 - プレイ（ブラウザ）: https://unityroom.com/games/wizard-broken-world
+- プレイ動画: https://drive.google.com/file/d/1UElqLrwro4LgA7Cv47VjyFb0QLlAULfH/view?usp=sharing
 - エンジン / 言語: Unity 6 (6000.3) / C#、Universal Render Pipeline (2D)、Input System
 
 ![タイトル画面](docs/title.jpg)
